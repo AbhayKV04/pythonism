@@ -13,8 +13,11 @@ The Tower of Hanoi (also called the Tower of Brahma or Lucas' Tower and sometime
 
 ### Fibonacci
 In mathematics, the Fibonacci numbers are the numbers in the following integer sequence, called the Fibonacci sequence, and characterized by the fact that every number after the first two is the sum of the two preceding ones:
+
 **1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144,...**
+
 Often, especially in modern usage, the sequence is extended by one more initial term:
+
 **0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144,...** [More](https://en.wikipedia.org/wiki/Fibonacci_number)
 
 ***Inefficient:** Uses recursive algorithm. Very slow for large inputs.*
