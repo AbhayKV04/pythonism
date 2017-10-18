@@ -20,5 +20,6 @@ Often, especially in modern usage, the sequence is extended by one more initial 
 
 **0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144,...** [More](https://en.wikipedia.org/wiki/Fibonacci_number)
 
-***Inefficient:** Uses recursive algorithm. Very slow for large inputs.*
-***Efficient:** Uses recursive algorithm with a technique called Memoization. Memoization takes help of dictionary data structure in Python.*
+***Recursive:** Uses recursive algorithm. Very slow for large inputs.*
+***Memoization:** Uses recursive algorithm with a technique called Memoization. Memoization takes help of dictionary data structure in Python.*
+***Generator:** Uses Generator method to generate Fibonacci numbers, one by one.*
