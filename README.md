@@ -27,7 +27,6 @@ Often, especially in modern usage, the sequence is extended by one more initial 
 ***Generator:** Uses Generator method to generate Fibonacci numbers, one by one.*
 
 ### Merge Sort
-
 In computer science, merge sort (also commonly spelled mergesort) is an efficient, general-purpose, comparison-based sorting algorithm. Most implementations produce a stable sort, which means that the implementation preserves the input order of equal elements in the sorted output. [More](https://en.wikipedia.org/wiki/Merge_sort)
 
 *This implementation uses recursion to sort the list.*
